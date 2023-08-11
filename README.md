@@ -25,7 +25,7 @@ To prepare this data, the data was cleaned, and the following processes were per
 - The bargraph was chosen to show how the number of sold item types compare to each other. 
 - The heatmap was chosen to show the degree of correlation that the numeric features had with each other. 
 
-![predictedSales](https://github.com/GyaviWalls/Prediction-of-Product-Sales/assets/44253554/507853c9-b5b2-4d06-9f67-ec40cebf9df0)
+![aim](https://github.com/GyaviWalls/Prediction-of-Product-Sales/assets/44253554/fca01d5e-4c8b-44fa-b163-2e17a592fb36)
 
 
 This histogram shows that the cheaper an item is, the more its sold.
